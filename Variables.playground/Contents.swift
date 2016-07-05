@@ -4,9 +4,10 @@ print(favoriteCharacter)
 favoriteCharacter = "Tyrion Lannister"
 print(favoriteCharacter)
 
-favoriteCharacter = 76
+favoriteCharacter = "Ramsay Bolton"
 
 let ultimateFavoriteCharacter = "Arya Stark"
 print(ultimateFavoriteCharacter)
 
-ultimateFavoriteCharacter = "Daenerys Targaryen"
+//can't redeclare a constant
+//ultimateFavoriteCharacter = "Daenerys Targaryen"
